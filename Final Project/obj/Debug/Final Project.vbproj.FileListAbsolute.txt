@@ -1,0 +1,10 @@
+C:\Users\Eric\Desktop\Final Solution\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final_Project.frmMain.resources
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final_Project.Resources.resources
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\Final Solution\Final Project\bin\Debug\Final Project.exe
+C:\Users\Eric\Desktop\Final Solution\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Eric\Desktop\Final Solution\Final Project\bin\Debug\Final Project.xml
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final Project.exe
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final Project.xml
+C:\Users\Eric\Desktop\Final Solution\Final Project\obj\Debug\Final Project.pdb
